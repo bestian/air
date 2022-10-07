@@ -37,7 +37,7 @@ export default {
     }
   },
   mounted () {
-    setInterval(this.move, 15)
+    setInterval(this.move, 5)
   },
   data () {
     return {
